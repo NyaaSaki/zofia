@@ -525,4 +525,4 @@ async def on_message(message):
     await client.process_commands(message)
 
 
-client.run('NzY3NTc4MzY1MzA5MzU0MDI0.X4z9Dw.onwAgAfMmw6BH612Px2XritM_wQ')
+#client.run(UNCOMMENT AND ENTER BOT KEY HERE)
