@@ -8,4 +8,4 @@ zf_front.py : Dad joke decency metric module - checks if a situation is suitable
 
 zf_class .ipynb : used to train the model. once run , zf_model folder will be created. if run without this model, dad jokes will be disabled
 
-decmet.csv :  The dataset of derogatory and negative messages
+decmet.csv :  The dataset of Serious vs Casual messages
